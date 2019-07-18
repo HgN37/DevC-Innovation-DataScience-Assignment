@@ -1,2 +1,38 @@
 # DevC-Innovation-DataScience-Assignment
 Just a repo to submit assignment
+
+## Week 1
+Pick 10 challenges on HackerRank about SQL and 5 about Python in easy level:
+
+***SQL***:
+1. https://www.hackerrank.com/rest/contests/master/challenges/revising-the-select-query/hackers/hgnguyen37/download_solution
+
+2. https://www.hackerrank.com/rest/contests/master/challenges/revising-the-select-query-2/hackers/hgnguyen37/download_solution
+
+3. https://www.hackerrank.com/rest/contests/master/challenges/select-all-sql/hackers/hgnguyen37/download_solution
+
+4. https://www.hackerrank.com/rest/contests/master/challenges/select-by-id/hackers/hgnguyen37/download_solution
+
+5. https://www.hackerrank.com/rest/contests/master/challenges/japanese-cities-attributes/hackers/hgnguyen37/download_solution
+
+6. https://www.hackerrank.com/rest/contests/master/challenges/weather-observation-station-1/hackers/hgnguyen37/download_solution
+
+7. https://www.hackerrank.com/rest/contests/master/challenges/weather-observation-station-3/hackers/hgnguyen37/download_solution
+
+8. https://www.hackerrank.com/rest/contests/master/challenges/weather-observation-station-4/hackers/hgnguyen37/download_solution
+
+9. https://www.hackerrank.com/rest/contests/master/challenges/japanese-cities-name/hackers/hgnguyen37/download_solution
+
+10. https://www.hackerrank.com/rest/contests/master/challenges/weather-observation-station-6/hackers/hgnguyen37/download_solution
+
+***Python***
+
+1. https://www.hackerrank.com/rest/contests/master/challenges/python-print/hackers/hgnguyen37/download_solution
+
+2. https://www.hackerrank.com/rest/contests/master/challenges/python-loops/hackers/hgnguyen37/download_solution
+
+3. https://www.hackerrank.com/rest/contests/master/challenges/python-division/hackers/hgnguyen37/download_solution
+
+4. https://www.hackerrank.com/rest/contests/master/challenges/python-arithmetic-operators/hackers/hgnguyen37/download_solution
+
+5. https://www.hackerrank.com/rest/contests/master/challenges/py-if-else/hackers/hgnguyen37/download_solution
