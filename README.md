@@ -1,6 +1,14 @@
 # DevC-Innovation-DataScience-Assignment
 Just a repo to submit assignment
 
+## Week 2
+SF Salaries Exercise:  Explore San Francisco city employee salary data.
+
+- Learn how to handle pandas dataframe and series.
+- Learn how to plot with seaborn and build in plot of pandas.
+
+TODO: Still not understand corr @@
+
 ## Week 1
 Pick 10 challenges on HackerRank about SQL and 5 about Python in easy level:
 
