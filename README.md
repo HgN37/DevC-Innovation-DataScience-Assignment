@@ -1,6 +1,18 @@
 # DevC-Innovation-DataScience-Assignment
 Just a repo to submit assignment
 
+## Week 5
+Group assignment 1 - part 2
+Show it to the dashboard: [Dashboard link](https://datastudio.google.com/open/1aYKufdQ5ZW1mMSqXAPJ5y2WErK-tsMw9)
+
+## Week 4
+Group assignment 1 - part 1
+Choose 1 dataset to analyze, clean and visualize to a dash board
+Target: finish the draft notebook to analyze and clean the data
+
+## Week 3
+Practice with Online-retail database to practice data analyze step.
+
 ## Week 2
 SF Salaries Exercise:  Explore San Francisco city employee salary data.
 
